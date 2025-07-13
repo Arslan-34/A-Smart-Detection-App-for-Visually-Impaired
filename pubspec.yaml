@@ -1,0 +1,39 @@
+name: smart_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.4.0
+  flutter_tts: ^4.2.2
+  image_picker: ^1.1.2
+  permission_handler: ^12.0.0+1
+  marquee: ^2.2.3
+  flutter_svg: ^2.0.7
+
+  google_fonts: ^6.1.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pics/bg currency page.jpg
+    - assets/pics/bg object.jpg
+    - assets/pics/bg search.jpg
+    - assets/pics/new.jpeg
+    - assets/pics/new1.jpeg
+    - assets/pics/search bar icon.svg
+    - assets/pics/background.jpeg
+    - assets/icons/search_icon.svg
+    - assets/pics/bg odp.avif
+    - assets/pics/bg bed.jpeg
+    - assets/pics/bg curr.jpg
+    - assets/pics/bd curr black.jpg
+
+
