@@ -51,11 +51,17 @@ assets/screenshots/
 Folder Structure
 
 Smart-Detection-App/
+
 ├── lib/                        (Flutter app source code)
+
 ├── assets/screenshots/        (Screenshots of app UI)
+
 ├── model_training/            (YOLOv8 training and evaluation notebooks)
+
 ├── flask_api/                 (Flask API code for model inference)
+
 ├── pubspec.yaml               (Flutter dependencies)
+
 └── README.md                  (Project description)
 
 Key Features
